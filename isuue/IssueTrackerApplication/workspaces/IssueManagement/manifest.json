@@ -1,0 +1,24 @@
+{
+    "packages": [
+        {
+            "name": "crud",
+            "version": "0.4.0"
+        },
+        {
+            "name": "frame",
+            "version": "0.5.2"
+        },
+        {
+            "name": "login",
+            "version": "0.6.1"
+        },
+        {
+            "name": "workflow",
+            "version": "0.3.2"
+        },
+        {
+            "name": "communication",
+            "version": "0.2.2"
+        }
+    ]
+}

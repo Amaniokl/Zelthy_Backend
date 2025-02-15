@@ -1,0 +1,19 @@
+{
+    "policies": [
+        {
+            "name": "IssueCrudViewAccess",
+            "description": "Access to the Issue CRUD View",
+            "statement": {
+                "permissions": [
+                    {
+                        "name": "issues.views.IssueCrudView",
+                        "type": "view"
+                    }
+                ]
+            },
+            "roles": [
+                "Issue_user"
+            ]
+        }
+    ]
+}
